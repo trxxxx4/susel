@@ -220,6 +220,7 @@ header {
 .thx {
     color: white;
     font-size: calc(var(--sizeIndex)*1.5);
+    
 }
 
 #thx1 {
@@ -228,6 +229,9 @@ header {
 
 #thx2 {
     font-family: 'Great Vibes', sans-serif;
+}
+#thx3{
+    max-width: 60%;
 }
 
 
