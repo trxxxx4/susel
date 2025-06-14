@@ -260,7 +260,7 @@ header {
     
 }
 .z__title__wraper{
-    background-color: azure;
+    background-color: white;
     width: fit-content;
     padding: calc(var(--sizeIndex)*1);
     overflow-y: hidden;
